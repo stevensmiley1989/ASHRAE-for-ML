@@ -1,7 +1,10 @@
 # ASHRAE-for-ML
 ## Repository by Steven Smiley
 
-This respository hosts the files I used to analyze and evaluate the ASHRAE Great Energy Prediction III dataset in Python. 
+This respository hosts the files I used to analyze and evaluate the ASHRAE Great Energy Prediction III datasets in Python.
+
+I wrote an article and was published in Towards Data Science here about this,
+https://towardsdatascience.com/estimating-counterfactual-energy-usage-of-buildings-with-machine-learning-8ca91ec66c08.
 
 
 # Table of Contents to Repository 
