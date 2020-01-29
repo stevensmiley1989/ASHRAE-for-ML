@@ -19,16 +19,16 @@ Jupyter Notebook(s) written in Python.
 | [Part-1-Divide.ipynb](https://nbviewer.jupyter.org/github/stevensmiley1989/ASHRAE-for-ML/blob/master/Part-1-Divide.ipynb) | Divide. |
 | [Part-2-And.ipynb](https://nbviewer.jupyter.org/github/stevensmiley1989/ASHRAE-for-ML/blob/master/Part-2-And.ipynb) | And. |
 | [Part-3-Conquer.ipynb](https://nbviewer.jupyter.org/github/stevensmiley1989/ASHRAE-for-ML/blob/master/Part-3-Conquer.ipynb) | Conquer. |
-| [Part-4-Conquer.ipynb](https://github.com/stevensmiley1989/ASHRAE-for-ML/blob/master/Part-4-AllSiteIds.ipynb) | AllSiteIDs. |
+| [Part-4-AllSiteIDs.ipynb](https://github.com/stevensmiley1989/ASHRAE-for-ML/blob/master/Part-4-AllSiteIds.ipynb) | AllSiteIDs. |
 
 
 
 ## [2 Inputs](https://www.kaggle.com/c/ashrae-energy-prediction/data)<a class="anchor" id="2"></a>
-[1. building_metadata.csv](https://www.kaggle.com/c/ashrae-energy-prediction/data)
-[2. test.csv](https://www.kaggle.com/c/ashrae-energy-prediction/data)
-[3. train.csv](https://www.kaggle.com/c/ashrae-energy-prediction/data)
-[4. weather_test.csv](https://www.kaggle.com/c/ashrae-energy-prediction/data)
-[5. weather_train.csv](https://www.kaggle.com/c/ashrae-energy-prediction/data)
+[1. building_metadata.csv](https://www.kaggle.com/c/ashrae-energy-prediction/data) <p>
+[2. test.csv](https://www.kaggle.com/c/ashrae-energy-prediction/data)<p>
+[3. train.csv](https://www.kaggle.com/c/ashrae-energy-prediction/data)<p>
+[4. weather_test.csv](https://www.kaggle.com/c/ashrae-energy-prediction/data)<p>
+[5. weather_train.csv](https://www.kaggle.com/c/ashrae-energy-prediction/data)<p>
 
 
 ## 3 Credits/References<a class="anchor" id="3"></a>
